@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: John Doe's CV
+title: James Calleja's CV
 ---
 
 ![James](./media/me.jpg){:.avatar}
