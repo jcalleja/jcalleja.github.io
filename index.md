@@ -5,7 +5,7 @@ title: James Calleja's CV
 
 ![James](./media/me.jpg){:.avatar}
 
-#James Calleja
+# James Calleja
 Computer Science Student and Technology aficionado
 
 <div id="webaddress">
@@ -19,7 +19,7 @@ Computer Science Student and Technology aficionado
 
 ## Currently
 
-Jobless!
+Jobless! But you know, working on it.
 
 ## Education
 
