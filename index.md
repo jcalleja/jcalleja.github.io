@@ -6,7 +6,7 @@ title: James Calleja's CV
 ![James](./media/me.jpg){:.avatar}
 
 # James Calleja
-Computer Science Student and Technology Aficionado
+Computer Science Student
 
 <div id="webaddress">
 <a href="mailto:">jcalleja@gmail.com</a>
@@ -19,7 +19,9 @@ Computer Science Student and Technology Aficionado
 
 ## Currently
 
-I am applying the MEAN stack development skills I learned through Soft Stack Factory. I am in the process of incorporating a backend to the Ride Sharing project.
+I am attending a 12 week bootcamp with SoftStack Factory in designing hybrid mobile and web apps. 
+As of now, I am currently applying the MEAN stack development skills I learned through Soft Stack Factory 
+and in process of incorporating a backend to the Ride Sharing project.
 <br>
 
 
@@ -43,19 +45,25 @@ __University of California, Riverside__ B.A. in English
 
 ### Rideshare! by SSF
 
-I am currently working with SSF in developing a car pooling application.
-
-### CV
-
-I created this web page to show off my CV.
+I am working with SSF in developing a car pooling application. We expect to have this app fully functioning in 6 weeks. I am given on the job training, walking through the development process step by step. 
+As a team, we formukated mockups to propose to investors and recieved feedback. I am assigned tasks in creating html templates with css styling, using AngularJS to make the app interactive, and using services to communicate with the backend (sending/retrieving information). 
+As I work on this project, I am reinforcing the lessons I have learned through Soft Stack Factory.
 
 ### D&D Character App
 
-The D&D Character APP allows users to create their own character and roll dice. It is currently in development.
+The D&D Character APP allows users to create their own character and roll dice. The key goals of this app is to aid the user by providing a simple and easy to use interface to facilitate a smoother gameplay experience. 
+The user will be able to log into the app and obtain information in communication with MongoDB/Strongloop Loopback. The dice roller allows the user to use the type of die and modify the results as deemed necessary.
+The dice roller will be incorporated with the gameplay experience, modifying data by applying the roll results. It is currently in development.
+
+### Short Story
+
+This pet project is currently in the planning stages. Short Story will be a website where authors can upload their short stories and users can read. This will be a creative space for experimentation and endless amount of entertainment for people who love to read.
 
 ## Achievements
 
-*Aided in detecting ACP in serveral trap sites in California.
+*Can find solutions to complex problems and improve upon them.
+
+*Multidisciplinary and capable of working through tasks with successful results.
 
 *Helped prevent damage to citrus produce by detecting the presence of HLB in local communities.
 
@@ -63,7 +71,7 @@ The D&D Character APP allows users to create their own character and roll dice. 
 
 ## Experience
 
-`June 2011-2016`
+`2011-2016`
 __Citrus Research Board / Cooperative Agricultural Support Services Authority__ 
 <br>
 Laboratory Aide
